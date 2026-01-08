@@ -3,3 +3,5 @@ langgraph
 langchain
 pydantic
 python-dotenv
+psycopg2-binary
+docling 
